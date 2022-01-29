@@ -1,1 +1,1 @@
-# Scala
+# Scala-programming tasks
