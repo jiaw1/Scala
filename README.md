@@ -1,1 +1,1 @@
-# Ohjelmointi-1 (Scala)
+# Scala
